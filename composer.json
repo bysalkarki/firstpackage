@@ -1,0 +1,10 @@
+{
+  "name": "bishal/testpackage",
+  "description": "This is just the basic test package",
+  "autoload": {
+    "psr-4": {
+      "Bishal\\Testpackage\\": "src/"
+    }
+  },
+  "require": {}
+}
