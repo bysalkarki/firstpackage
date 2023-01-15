@@ -1,6 +1,7 @@
 {
   "name": "bishal/testpackage",
   "description": "This is just the basic test package",
+  "homepage": "https://github.com/bysalkarki/firstpackage",
   "autoload": {
     "psr-4": {
       "Bishal\\Testpackage\\": "src/"
